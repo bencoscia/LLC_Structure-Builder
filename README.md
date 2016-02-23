@@ -1,5 +1,5 @@
 # LLC_Structure-Builder
-Python Script to build LLC pore structure
+Repository includes Python Script to build LLC pore structure (Structure_Builder.py)
 Inputs: .pdb file of LLC structure to be assembled
         Number of monomers per layer
         Number of layers
